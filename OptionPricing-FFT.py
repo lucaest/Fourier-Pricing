@@ -1,11 +1,3 @@
-""" 
-System Specifications:
-	OS:  macOS Catalina (Version 10.15.7, 64-bit)
-	CPU: 2.4 GHz Quad-Core Intel Core i5
-	RAM: 16GB 21333 MHz LPDDR3
-	Python-Version 3.9.2 64-bit
-"""
-
 #%%
 import math
 import numpy as np
