@@ -6,17 +6,7 @@ from scipy.stats import norm
 import matplotlib.pyplot as plt
 import cmath            
 import timeit
-#import matplotlib
 
-# matplotlib.use("pgf")
-# matplotlib.rcParams.update({
-#     "pgf.texsystem": "pdflatex",
-#     'font.family': 'serif',
-#     'text.usetex': True,
-#     'pgf.rcfonts': False,
-#     "figure.figsize" : [6.10356, 3.5], 
-#     "pgf.preamble" : r"\usepackage{siunitx} \usepackage[T1]{fontenc} \usepackage[utf8x]{inputenc}"
-# }) 
 M_crr = 500
 M_mc = 100000
 S0 = 100.00             
